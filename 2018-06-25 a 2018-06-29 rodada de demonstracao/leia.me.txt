@@ -1,1 +1,7 @@
+ Repositorio do Backend: 
+	https://github.com/rafaeldmpacheco/tagarela-backend
+ 
+ Repositorio do Frontend:
+	https://github.com/rafaeldmpacheco/tagarela-frontend
+ 
  
